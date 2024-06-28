@@ -2,6 +2,13 @@
 
 This repository contains a project demonstrating the use of Naive Bayes classifiers on the Wine dataset. The project includes data loading, preprocessing, model training, and evaluation using both Gaussian and Multinomial Naive Bayes algorithms.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Naive-Bayes-Classification/assets/113255836/b7c4f3ce-3c74-471f-9568-81e41b54ff73
+
+
+
 ## Dataset
 
 The Wine dataset is a classic dataset used in pattern recognition and machine learning. It contains 178 samples of wine, each with 13 features and a target variable representing the class label.
